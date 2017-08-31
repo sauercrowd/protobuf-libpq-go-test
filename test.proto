@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message TestMessage{
+    double input = 1;
+    double output = 2;
+    double info = 3;
+}
